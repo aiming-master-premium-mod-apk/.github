@@ -2,7 +2,7 @@
 
 |![images (26)](https://github.com/user-attachments/assets/68412045-60c3-4346-a467-b3c96cce70e2)| [![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://modhello.com/)  |
 |:-------------------------------------------------:|-----------------------|
-| **Platform**: *Android/IOS/PC*                      | **Name**: *Aiming Master Premium**    |
+| **Platform**: *Android/IOS/PC*                      | **Name**: *Aiming Master Premium*    |
 | **Size**: *13.5 Mb*                                | ⭐️⭐️⭐️⭐️⭐️ (5/5) |
 | **Latest Update**: *24/12/2024*                      | **Category** : *Tools* |
  
